@@ -1,0 +1,99 @@
+body{
+    margin: 0;
+    background-color: #04131a;
+    font-family: "Quicksand";
+}
+.navbar{
+    /* border: 1px solid rgb(255, 255, 255); */
+    height: 50px;   
+}
+.pixim{
+    width: 80px;
+    margin-left: 890px;
+    margin-top: -4px;
+}
+.bodyo{
+    border: 3px solid #e83a4b;
+    box-shadow: 0px 0px 50px 5px #e83a4b;
+    margin-top: 40px;
+    width: 1850px;
+    margin-left: 35px;
+    height: 800px;
+    background-color: #061c27;
+    border-radius: 10px;
+}
+.labelo{
+    /* border: 1px solid white; */
+    padding: 10px;
+    width: auto;
+    margin-left: 630px;
+    font-family: "Quicksand";
+    margin-top: 230px;
+    font-size: 25px;
+    color: #75b4c4;
+    text-decoration: underline 3px #e83a4b ;
+
+}
+.labelt{
+    /* border: 1px solid white; */
+    padding: 10px;
+    width: auto;
+    margin-left: 630px;
+    font-family: "Quicksand";
+    font-size: 25px;
+    color: #75b4c4;
+    text-decoration: underline 3px #e83a4b ;
+
+}
+.inputo{
+    border: 3px solid #e83a4b;
+    width: 250px;
+    outline: 0;
+    border-radius: 10px;
+    height: 30px;
+    font-size: 20px;
+    color: #75b4c4 ;
+    margin-left: 40px;
+    background-color: #04131a;
+    caret-color: #e83a4b;
+}
+.inputo:hover{
+    box-shadow: 0px 0px 10px 2px #e83a4b;
+}
+.inputt{
+    border: 3px solid #e83a4b;
+    width: 250px;
+    outline: 0;
+    border-radius: 10px;
+    font-size: 20px;
+    color: #75b4c4;
+    height: 30px;
+    margin-left: 140px;
+    background-color: #04131a;
+    caret-color: #e83a4b;
+}
+.inputt:hover{
+    box-shadow: 0px 0px 10px 2px #e83a4b;
+}
+.loginb{
+    border: 3px solid #e83a4b;
+    width: 130px;
+    font-family: sans-serif;
+    font-size: 25px;
+    background-color: #04131a;
+    color: #75b4c4;
+    border-radius: 5px;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 850px;
+    text-decoration: underline 3px #e83a4b ;
+    margin-top: 40px;
+}
+.loginb:hover{
+    box-shadow: 0px 0px 10px 2px #e83a4b;
+}
+a{
+    color: #75b4c4;
+    text-decoration: underline 3px #e83a4b ;
+}
